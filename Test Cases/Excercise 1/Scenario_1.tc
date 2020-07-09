@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access a Product via category after applying multiple filters</description>
+   <name>Scenario_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4da58050-b59e-49f5-afec-ec3eeeb77554</testCaseGuid>
+</TestCaseEntity>

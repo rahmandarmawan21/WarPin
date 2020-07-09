@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>you will be creating mock-ups for API test</description>
+   <name>MockAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>386ce95d-5c0a-4be4-814f-c9f7d99d3a72</testCaseGuid>
+</TestCaseEntity>

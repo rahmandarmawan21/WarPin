@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.ebay.com/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Asia'</initValue>
+      <name>locName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6000000'</initValue>
+      <name>price</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>1 = small{4 - 5.4 inc} and 2 = large{5.5 - Not Spesified}</description>
+      <initValue>'1'</initValue>
+      <name>sizeType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>4.0 - 4.4 in, 4.5 - 4.9 in, 5.0 - 5.4 in, 5.5 - 5.9 in, 6 in or More, Not Specified</description>
+      <initValue>'5.0 - 5.4 in'</initValue>
+      <name>inch</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MacBook'</initValue>
+      <name>SearchItem</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please update First</description>
+      <initValue>findTestData('user').getValue(1, 1)</initValue>
+      <name>user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Please update First</description>
+      <initValue>findTestData('user').getValue(2, 1)</initValue>
+      <name>passWord</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://github.com/'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gist.github.com/'</initValue>
+      <name>caseUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
